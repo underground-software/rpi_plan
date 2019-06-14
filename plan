@@ -2,13 +2,26 @@ improve package manager speed
 - somehow take advantage of caching package lists
 
 copy and paste
+- beyond GTK only
+- primary buffer works
 
 usable browser
+- within reason
+- stripped down
+- built in ad/script/tracker blocking (uBlock origin/matrix)
+- built in privacy utilities
 
 lighweight desktop environment installable package
+- wayland?
+- weston?
+- sway? (explicitly supports rpi according to source code)
+
 usable and configured terminal
 
 Native kernel builds
+
+Other random issues:
+- a git clone of the kernel is oom killed before completion
 
 Untested:
 GPIO
