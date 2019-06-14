@@ -15,8 +15,12 @@ lighweight desktop environment installable package
 - wayland?
 - weston?
 - sway? (explicitly supports rpi according to source code)
+-- latest error: 06/14/19 13:25:55 - [main.c:48] [wlc] Failed to init compositor
+-- possibly relevant: https://www.phoronix.com/scan.php?page=news_item&px=Sway-0.15-Released
 
-usable and configured terminal
+usable and configured terminal emulator
+- urxvt or terminator (just out of familiarity)
+- probably the latter
 
 Native kernel builds
 
@@ -26,4 +30,5 @@ Other random issues:
 Untested:
 GPIO
 Camera
-
+Audio
+Bluetooth
